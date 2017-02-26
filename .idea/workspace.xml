@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f2e8dccf-c4a0-4866-9fe4-7759b63ba245" name="Default" comment="Included &quot;About&quot; page component into the App.">
+    <list default="true" id="f2e8dccf-c4a0-4866-9fe4-7759b63ba245" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/App.vue" afterPath="$PROJECT_DIR$/src/App.vue" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -280,7 +279,7 @@
       <option name="presentableId" value="Default" />
       <updated>1488134762580</updated>
       <workItem from="1488134763918" duration="3893000" />
-      <workItem from="1488146789061" duration="5025000" />
+      <workItem from="1488146789061" duration="5031000" />
     </task>
     <task id="LOCAL-00001" summary="Created repository">
       <created>1488151313165</created>
@@ -289,11 +288,18 @@
       <option name="project" value="LOCAL" />
       <updated>1488151313165</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Included &quot;About&quot; page component into the App.">
+      <created>1488152043808</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1488152043808</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8918000" />
+    <option name="totallyTimeSpent" value="8924000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1064" extended-state="6" />
