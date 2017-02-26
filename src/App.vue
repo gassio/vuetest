@@ -2,6 +2,7 @@
   <div id="app">
     <img src="./assets/logo.png">
     <hello></hello>
+    <about></about>
     <modal></modal>
     <gallery></gallery>
   </div>
