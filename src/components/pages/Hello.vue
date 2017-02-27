@@ -1,8 +1,6 @@
 <template>
-  <div class="hello">
-    <h1>Hello world!</h1>
-    <h2>This is a subtitle.</h2>
-    <p>{{ content }}</p>
+  <div class="page-hello">
+    <h1>Hello page</h1>
   </div>
 </template>
 

@@ -1,8 +1,6 @@
 <template>
-  <div class="about">
-    <h1>This is About page</h1>
-    <h2>Subtitle for about page</h2>
-    <p> {{ content }}</p>
+  <div class="page-about">
+    <h1>About page</h1>
   </div>
 </template>
 
@@ -16,3 +14,7 @@ export default {
   }
 }
 </script>
+
+<style scoped>
+
+</style>
